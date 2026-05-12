@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=FFB6C1&height=120&section=header&text=Hi,%20I'm%20Eva!&fontSize=50&fontColor=ffffff" />
 
-I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on building AI-powered tools, full-stack platforms, and real-time systems. You can find me programming, painting, or playing soccer. 
+I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on building AI-powered tools, full-stack platforms, and real-time systems. In my free time, you can find me programming, eating, painting, or playing soccer!
 
 ## What I'm doing
 - **Teaching**: TA for 15-122 (Principles of Imperative Computation) for 500+ students.
@@ -56,5 +56,7 @@ I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on bui
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 
-## Connect
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a1a1b&border_color=2f3031&bar_color=FFB6C1&bar_color_active=FFB6C1)](https://open.spotify.com/user/gqvwodvvbsa1elx9f924u5ff3)
+
+## Connect With Me!
 [LinkedIn](https://www.linkedin.com/in/evuhli) | [Portfolio](https://evuhli.github.io/evali/) | [Email](mailto:lievayifan@gmail.com)
