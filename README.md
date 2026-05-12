@@ -10,7 +10,7 @@ I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on bui
 
 ### What I'm Listening To
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gqvwodvvbsa1elx9f924u5ff3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ff0f0f&interchange=false&profanity=true&bar_color=fd91e0&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=gqvwodvvbsa1elx9f924u5ff3&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gqvwodvvbsa1elx9f924u5ff3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ff0f0f&interchange=false&profanity=false&bar_color=fd91e0&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=gqvwodvvbsa1elx9f924u5ff3&redirect=true)
 
 
 ## Selected Projects
