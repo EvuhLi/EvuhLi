@@ -61,4 +61,4 @@ I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on bui
 
 
 ## Connect With Me!
-[LinkedIn](https://www.linkedin.com/in/evuhli) | [Portfolio](https://evuhli.github.io/evali/) | [Email](mailto:lievayifan@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/evayifanli/) | [Portfolio](https://evuhli.github.io/evali/) | [Email](mailto:lievayifan@gmail.com)
