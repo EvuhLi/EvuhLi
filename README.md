@@ -2,7 +2,7 @@
 
 I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on building AI-powered tools, full-stack platforms, and real-time systems. You can find me programming, painting, or playing soccer. 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=80&section=header&text=What%20I'm%20Doing&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=80&section=header&text=What%20I'm%20Doing&fontSize=40&fontColor=ffffff" />
 
 
 - **Teaching**: TA for 15-122 (Principles of Imperative Computation) for 500+ students.
@@ -10,7 +10,7 @@ I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on bui
 - **Research**: Mapping privacy-preserving infrastructure at CMU.
 - **Project**: Building a GitHub MCP server to let AI agents autonomously review and search code.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=80&section=header&text=Selected%20Projects&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=80&section=header&text=Selected%20Projects&fontSize=40&fontColor=ffffff" />
 
 | Project | Tech Stack | What It Does |
 | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on bui
 | **Sparrow** | MongoDB, React | Educational app teaching children Java via visual block coding and animations. |
 | **AzulTile** | Java | A backend simulation of the board game Azul, focusing on drafting and scoring logic. |
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=80&section=header&text=ToolBox&fontSize=40" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1&height=80&section=header&text=ToolBox&fontSize=40&fontColor=ffffff" />
 
 ### Languages
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
