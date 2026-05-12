@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=FFB6C1&height=120&section=header&text=Hi,%20I'm%20Eva!&fontSize=50&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=00008B&height=120&section=header&text=Hi,%20I'm%20Eva!&fontSize=50&fontColor=ffffff" />
 
 I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on building AI-powered tools, full-stack platforms, and real-time systems. In my free time, you can find me programming, eating, painting, or playing soccer!
 
