@@ -1,12 +1,16 @@
-# Hi, I'm Eva Li!
+# Hi, I'm Eva Li 🌸
 
 I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on building AI-powered tools, full-stack platforms, and real-time systems. You can find me programming, painting, or playing soccer. 
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Selected%20Projects&fontSize=40" />
 
 ## What I'm doing
 - **Teaching**: TA for 15-122 (Principles of Imperative Computation) for 500+ students.
 - **Interning**: Software Engineering at Architxt, automating floor plan generation and architectural drafting.
 - **Research**: Mapping privacy-preserving infrastructure at CMU.
 - **Project**: Building a GitHub MCP server to let AI agents autonomously review and search code.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Selected%20Projects&fontSize=40" />
 
 ## Selected Projects
 
@@ -17,6 +21,8 @@ I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on bui
 | **Minecraft Live** | Python, MediaPipe | Real-time motion control system with <30ms latency using full-body tracking. |
 | **Sparrow** | MongoDB, React | Educational app teaching children Java via visual block coding and animations. |
 | **AzulTile** | Java | A backend simulation of the board game Azul, focusing on drafting and scoring logic. |
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=header&text=Selected%20Projects&fontSize=40" />
 
 ## Toolbox
 
@@ -42,6 +48,10 @@ I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on bui
 ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=EvuhLi&show_icons=true&theme=radical)
+
 
 ## Connect
 [LinkedIn](https://www.linkedin.com/in/evuhli) | [Portfolio](https://evuhli.github.io/evali/) | [Email](mailto:lievayifan@gmail.com)
