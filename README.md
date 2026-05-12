@@ -8,6 +8,9 @@ I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on bui
 - **Research**: Mapped privacy-preserving infrastructure to common software design patterns for privacy practitioners at CMU.
 - **Project**: Building a GitHub MCP server to let AI agents autonomously review and search code.
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gqvwodvvbsa1elx9f924u5ff3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ff0f0f&interchange=false&profanity=true&bar_color=fd91e0&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=gqvwodvvbsa1elx9f924u5ff3&redirect=true)
+
+
 ## Selected Projects
 
 | Project | Tech Stack | What It Does |
@@ -56,7 +59,6 @@ I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on bui
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gqvwodvvbsa1elx9f924u5ff3&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ff0f0f&interchange=false&profanity=true&bar_color=fd91e0&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=gqvwodvvbsa1elx9f924u5ff3&redirect=true)
 
 ## Connect With Me!
 [LinkedIn](https://www.linkedin.com/in/evuhli) | [Portfolio](https://evuhli.github.io/evali/) | [Email](mailto:lievayifan@gmail.com)
