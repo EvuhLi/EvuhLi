@@ -56,7 +56,7 @@ I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on bui
 ![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobe-illustrator&logoColor=white)
 ![After Effects](https://img.shields.io/badge/-After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=1a1a1b&border_color=2f3031&bar_color=FFB6C1&bar_color_active=FFB6C1)](https://open.spotify.com/user/gqvwodvvbsa1elx9f924u5ff3)
+[![Spotify](https://novatorem.vercel.app/api/spotify?user=evayli&background_color=1a1a1b&border_color=2f3031&bar_color=FFB6C1&bar_color_active=FFB6C1)](https://open.spotify.com/user/gqvwodvvbsa1elx9f924u5ff3)
 
 ## Connect With Me!
 [LinkedIn](https://www.linkedin.com/in/evuhli) | [Portfolio](https://evuhli.github.io/evali/) | [Email](mailto:lievayifan@gmail.com)
