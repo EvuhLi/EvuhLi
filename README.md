@@ -3,7 +3,7 @@
 I'm a CS and Information Systems major at Carnegie Mellon (2028). I focus on building AI-powered tools, full-stack platforms, and real-time systems. In my free time, you can find me programming, eating, painting, or playing soccer!
 
 ## What I'm Doing
-- **Teaching**: TA for 15-122 (Principles of Imperative Computation) for 500+ students.
+- **Teaching**: TA for 15-122 (Data Structures and Algorithms) for 500+ students.
 - **Interning**: Software Engineering at Architxt, focused on automating floor plan generation and architectural drafting workflows to streamline the housing design process.
 - **Research**: Mapped privacy-preserving infrastructure to common software design patterns for privacy practitioners at CMU.
 - **Project**: Building a GitHub MCP server to let AI agents autonomously review and search code.
