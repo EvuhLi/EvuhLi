@@ -4,8 +4,8 @@ I'm a CS and Information Systems major at Carnegie Mellon. I focus on building A
 
 ## What I'm Doing
 - **Teaching**: TA for 15-122 (Data Structures and Algorithms) for 500+ students.
-- **Interning**: Software Engineering at Architxt, focused on automating floor plan generation and architectural drafting workflows to streamline the housing design process.
-- **Research**: Mapping privacy-preserving infrastructure to common software design patterns for privacy practitioners at CMU.
+- **Interning**: Software Engineering at Geom, focused on automating floor plan generation and architectural drafting workflows to streamline the housing design process.
+- **Research**: Working in Professor Erickson's RCHII lab to develop an autonomous feeding robot. 
 - **Project**: Building a real-time soccer match analytics pipeline.
 
 ### What I'm Listening To
