@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=13265C&height=120&section=header&text=Hi,%20I'm%20Eva!&fontSize=50&fontColor=ffffff&fontAlign=50&fontAlignY=50&fontFamily=Palatino" />
 
-I'm a CS and Information Systems major at Carnegie Mellon. I focus on building AI-powered tools, full-stack platforms, and real-time systems. In my free time, you can find me programming, eating, painting, or playing soccer!
+I'm a CS and Information Systems major at Carnegie Mellon. I'm super interested in low-level systems and building cool products! In my free time, you can find me programming, eating, painting, or playing soccer!
 
 ## What I'm Doing
 - **Teaching**: TA for 15-122 (Data Structures and Algorithms) for 500+ students.
